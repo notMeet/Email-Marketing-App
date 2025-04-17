@@ -15,4 +15,4 @@ This project demonstrates a serverless email marketing system using AWS services
 3. Lambda Function: Merges email template with contact list and sends personalized emails using SES
 4. EventBridge: Triggers the Lambda function on a scheduled basis
 5. SES: Sends personalized emails to contacts
-
+6. IAM: Manages access and permissions for the Lambda function to interact with DynamoDB, S3, and SES
