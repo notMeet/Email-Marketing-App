@@ -1,4 +1,4 @@
-# Serverless Email Marketing Project
+# Serverless Email Marketing App
 =====================================
 
 ## Overview
